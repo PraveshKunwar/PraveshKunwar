@@ -15,7 +15,8 @@ Hey, I am Pravesh Kunwar! 👋
    <img src="https://camo.githubusercontent.com/5326f280c7d8123e315e7e4e2df6ca87bbb39ca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
 </div>
 <br><br><br>
-
+<div class="github-card" data-github="PraveshKunwar" data-width="400" data-height="317" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=merko" />
 </div>
