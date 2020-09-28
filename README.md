@@ -23,7 +23,9 @@ Hey, I am Pravesh Kunwar! 👋
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar" />
 </a>
 
-<img text-align="center" src="https://www.sidnova.com/wp-content/uploads/2019/09/linktree.png">
+<div align="center"
+<img src="https://www.sidnova.com/wp-content/uploads/2019/09/linktree.png">
+</div>
 <p align="center">
 <a href="https://linktr.ee/PraveshK">Check out all my socials here, at my LinkTree!
 </a>
