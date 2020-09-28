@@ -19,12 +19,12 @@ Hey, I am Pravesh Kunwar! 👋
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=merko" />
 </div>
-<h1 align="center">
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar" />
+  <h1 align="center">
 <a href="https://linktr.ee/PraveshK">🔗 Check out all my socials here, at my LinkTree!
 </a>
 </h1>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar" />
   <img src="https://www.sidnova.com/wp-content/uploads/2019/09/linktree.png">
   </div>
 
