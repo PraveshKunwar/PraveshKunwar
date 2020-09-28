@@ -16,8 +16,6 @@ Hey, I am Pravesh Kunwar! 👋
 </div>
 <br><br><br>
 
-<div class="github-card" data-github="PraveshKunwar" data-width="400" data-height="317" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=merko" />
