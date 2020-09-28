@@ -25,6 +25,7 @@ Hey, I am Pravesh Kunwar! 👋
 <a href="https://linktr.ee/PraveshK">🔗 Check out all my socials here, at my LinkTree!
 </a>
 </h1>
+  <p align="center">For email: Please email me at <b>praveshisawesome2017@gmail.com</b></p>
   <img src="https://www.sidnova.com/wp-content/uploads/2019/09/linktree.png">
   </div>
 
