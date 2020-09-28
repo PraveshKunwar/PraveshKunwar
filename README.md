@@ -1,6 +1,6 @@
 # Hey, I am Pravesh Kunwar! 👋
 
-### These are some of my user stats!
+These are some of my user stats!
 
 
 ![PraveshK's github stats](https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=radical)
