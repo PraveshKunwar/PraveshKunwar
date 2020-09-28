@@ -23,3 +23,7 @@ Hey, I am Pravesh Kunwar! 👋
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar" />
 </a>
 
+<a href="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo.png">
+  <p align="center>
+  [Check out all my socials here](https://linktr.ee/PraveshK)
+  </p>
