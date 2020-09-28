@@ -24,6 +24,6 @@ Hey, I am Pravesh Kunwar! 👋
 </a>
 
 <a href="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo.png">
-  <p align="center>
-            <a href="https://linktr.ee/PraveshK">Check out all my socials here, at my LinkTree!</a>
-  </p>
+  <h1 align="center>
+            <a align="center" href="https://linktr.ee/PraveshK">Check out all my socials here, at my LinkTree!</a>
+  </h1>
