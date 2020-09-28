@@ -8,7 +8,7 @@ Hey, I am Pravesh Kunwar! 👋
 
 
 <div align="center>
-            <h1>Languages I am Familiar With!</h1>
+            <h1><b>Languages I am Familiar With!</b></h1>
 </div>
 
 
