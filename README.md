@@ -23,7 +23,7 @@ Hey, I am Pravesh Kunwar! 👋
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar" />
 </a>
 
-<div align="center"
+<div align="center">
 <img src="https://www.sidnova.com/wp-content/uploads/2019/09/linktree.png">
 </div>
 <p align="center">
