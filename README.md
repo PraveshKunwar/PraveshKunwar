@@ -1,6 +1,8 @@
 <div align="center">
   <p>
+    <b>
 Hey, I am Pravesh Kunwar! 👋
+    </b>
 </p>
 </div>
 
