@@ -1,9 +1,9 @@
 <div align="center">
-  <p>
+  <h1>
     <b>
 Hey, I am Pravesh Kunwar! 👋
     </b>
-</p>
+</h1>
 </div>
 <br><br><br>
 
