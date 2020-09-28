@@ -16,13 +16,14 @@ Hey, I am Pravesh Kunwar! 👋
 </div>
 <br><br><br>
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar" />
 </a>
-
+</div>
 <div align="center">
 <img src="https://www.sidnova.com/wp-content/uploads/2019/09/linktree.png">
 </div>
