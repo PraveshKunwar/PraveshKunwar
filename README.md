@@ -23,8 +23,8 @@ Hey, I am Pravesh Kunwar! 👋
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar" />
   <h1 align="center">
-<a href="https://linktr.ee/PraveshK">🔗 Check out all my socials here, at my LinkTree!
-</a>
+<a href="https://linktr.ee/PraveshK" target="_blank">🔗 Check out all my socials here, at my LinkTree!
+</a> 
 </h1>
   <p align="center">For email: Please email me at <b>praveshisawesome2017@gmail.com</b></p>
   <img src="https://www.sidnova.com/wp-content/uploads/2019/09/linktree.png" height="200">
