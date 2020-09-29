@@ -21,7 +21,7 @@ Hey, I am Pravesh Kunwar! 👋
   <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=merko" />
 </div>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=radical" />
   <h1 align="center">
 <a href="https://linktr.ee/PraveshK" target="_blank">🔗 Check out all my socials here, at my LinkTree!
 </a> 
