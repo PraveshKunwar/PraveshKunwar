@@ -27,7 +27,7 @@ Hey, I am Pravesh Kunwar! 👋
 </a>
 </h1>
   <p align="center">For email: Please email me at <b>praveshisawesome2017@gmail.com</b></p>
-  <img src="https://www.sidnova.com/wp-content/uploads/2019/09/linktree.png">
+  <img src="https://www.sidnova.com/wp-content/uploads/2019/09/linktree.png" height="400">
   </div>
 
 
