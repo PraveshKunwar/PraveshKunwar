@@ -18,10 +18,10 @@ Hey, I am Pravesh Kunwar! 👋
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=solarized-light" />
 </div>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=nord" />
   <h1 align="center">
 <a href="https://linktr.ee/PraveshK" target="_blank">🔗 Check out all my socials here, at my LinkTree!
 </a> 
