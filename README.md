@@ -26,7 +26,7 @@ Hey, I am Pravesh Kunwar! 👋
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=radical" />
   <h1 align="center">
-<a href="https://linktr.ee/PraveshK" target="_blank">🔗 Check out all my socials here, at my LinkTree!
+<a href="https://linktr.ee/PraveshK" target="_blank" style="text-decoration: none;">🔗 Check out all my socials here, at my LinkTree!
 </a> 
 </h1>
   <p align="center">For email: Please email me at <b>praveshk04@outlook.com</b></p>
