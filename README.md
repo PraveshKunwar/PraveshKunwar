@@ -1,4 +1,3 @@
-  ![](https://komarev.com/ghpvc/?username=PraveshKunwar&color=green)
 <div align="center">
   <h1>
     <b>
@@ -31,5 +30,5 @@ Hey, I am Pravesh Kunwar! 👋
 </h1>
   <p align="center">For email: Please email me at <b>praveshk04@outlook.com</b></p>
   </div>
-
+ ![](https://komarev.com/ghpvc/?username=PraveshKunwar&color=green)
 
