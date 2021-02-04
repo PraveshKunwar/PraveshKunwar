@@ -22,6 +22,7 @@ Hey, I am Pravesh Kunwar! 👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=radical" style="text-decoration:none; color: white"/>
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </div>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=radical" />
