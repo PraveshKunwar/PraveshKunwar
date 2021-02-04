@@ -1,3 +1,4 @@
+  ![](https://komarev.com/ghpvc/?username=PraveshKunwar&color=green)
 <div align="center">
   <h1>
     <b>
@@ -18,7 +19,6 @@ Hey, I am Pravesh Kunwar! 👋
   <img src="https://camo.githubusercontent.com/b38bbb1cba49a754ade66ca1ca45541ed07ab31a3b01166157f513b44fb35f70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465">
 </div>
 <br><br><br>
-  ![](https://komarev.com/ghpvc/?username=PraveshKunwar&color=green)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=radical" style="text-decoration:none; color: white"/>
