@@ -35,7 +35,18 @@ Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Mi
 - ✨ Portfolio - My personal portfolio using Typescript and Framer Motion (coming soon!)
 - ✨ Socialistic - A project that allows you to access all social media accounts in one customizable link (coming soon!)
 
+Here are some of my most used languages and frameworks, etc: 
+- ⭐ Typescript
+- ⭐ Javascript
+- ⭐ CSS (frameworks: bootstrap, framer motion, bulma, scss, styled components)
+- ⭐ HTML (JSX)
+- ⭐ Python (learning)
+
+## Contributions
+
 > If you would like to contribute to any of my projects,
 > please contact me by emailing me.
 
 Email: praveshk04@outlook.com
+
+## 👋 Have a nice day!
