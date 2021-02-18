@@ -23,14 +23,21 @@
 </div>
 
 ## About Me 🕵️
-Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Michigan that loves to code, especially with Javascript. I was introduced to programming a couple years ago, and it has now become my passion. Here are some of my most notable projects:
+Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Michigan that loves to code, especially with Javascript. I was introduced to programming a couple years ago, and it has now become my passion.
+
+### Projects
+
+Here are some of my most notable projects:
 
 - ✨ Ultimatum - My discord bot written in Typescript.
 - ✨ Statistify - An all in one Spotify stats tracker.
 - ✨ Portfolio - My personal portfolio using Typescript and Framer Motion (coming soon!)
 - ✨ Socialistic - A project that allows you to access all social media accounts in one customizable link (coming soon!)
 
+### Languages
+
 Here are some of my most used languages and frameworks, etc: 
+
 - ⭐ Typescript
 - ⭐ Javascript (Node.js, Express.js, EJS, React)
 - ⭐ CSS (frameworks: bootstrap, framer motion, bulma, scss, styled components)
