@@ -25,7 +25,17 @@ Hey, I am Pravesh Kunwar! 👋
 </div>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=tokyonight" />
-  <p align="center">For email: Please email me at <b>praveshk04@outlook.com</b></p>
   </div>
 
-## About Me
+## About Me 🕵️
+Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Michigan that loves to code, especially with Javascript. I was introduced to programming a couple years ago, and it has now become my passion. Here are some of my most notable projects:
+
+- ✨ Ultimatum - My discord bot written in Typescript.
+- ✨ Statistify - An all in one Spotify stats tracker.
+- ✨ Portfolio - My personal portfolio using Typescript and Framer Motion (coming soon!)
+- ✨ Socialistic - A project that allows you to access all social media accounts in one customizable link (coming soon!)
+
+> If you would like to contribute to any of my projects,
+> please contact me by emailing me.
+
+Email: praveshk04@outlook.com
