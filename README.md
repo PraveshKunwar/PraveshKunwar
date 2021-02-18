@@ -37,10 +37,12 @@ Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Mi
 
 Here are some of my most used languages and frameworks, etc: 
 - ⭐ Typescript
-- ⭐ Javascript
+- ⭐ Javascript (Node.js, Express.js, EJS, React)
 - ⭐ CSS (frameworks: bootstrap, framer motion, bulma, scss, styled components)
 - ⭐ HTML (JSX)
 - ⭐ Python (learning)
+- ⭐ MongoDB (Database)
+- ⭐ Git
 
 ## Contributions
 
