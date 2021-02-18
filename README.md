@@ -18,6 +18,10 @@
 </div>
 <br><br><br>
 
+<div align="center">
+  <p>📈 Stats!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=tokyonight" style="text-decoration:none; color: white"/>
+</div>
 
 ## About Me 🕵️
 Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Michigan that loves to code, especially with Javascript. I was introduced to programming a couple years ago, and it has now become my passion. Here are some of my most notable projects:
@@ -46,10 +50,3 @@ Email: praveshk04@outlook.com
 
 ## 👋 Have a nice day!
 
-<div align="center">
-  <p>📈 Stats!</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=tokyonight" style="text-decoration:none; color: white"/>
-</div>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=tokyonight" />
-  </div>
