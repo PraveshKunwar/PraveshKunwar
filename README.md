@@ -36,13 +36,6 @@ Here are some of my most used languages and frameworks, etc:
 - ⭐ MongoDB (Database)
 - ⭐ Git
 
-<div align="center">
-  <p>📈 Stats!</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=tokyonight" style="text-decoration:none; color: white"/>
-</div>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=tokyonight" />
-  </div>
 
 ## Contributions 📜
 
@@ -52,3 +45,11 @@ Here are some of my most used languages and frameworks, etc:
 Email: praveshk04@outlook.com
 
 ## 👋 Have a nice day!
+
+<div align="center">
+  <p>📈 Stats!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=tokyonight" style="text-decoration:none; color: white"/>
+</div>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=tokyonight" />
+  </div>
