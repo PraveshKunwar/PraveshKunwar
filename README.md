@@ -18,13 +18,6 @@
 </div>
 <br><br><br>
 
-<div align="center">
-  <p>📈 Stats!</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=tokyonight" style="text-decoration:none; color: white"/>
-</div>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=tokyonight" />
-  </div>
 
 ## About Me 🕵️
 Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Michigan that loves to code, especially with Javascript. I was introduced to programming a couple years ago, and it has now become my passion. Here are some of my most notable projects:
@@ -42,6 +35,14 @@ Here are some of my most used languages and frameworks, etc:
 - ⭐ Python (learning)
 - ⭐ MongoDB (Database)
 - ⭐ Git
+
+<div align="center">
+  <p>📈 Stats!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=tokyonight" style="text-decoration:none; color: white"/>
+</div>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=tokyonight" />
+  </div>
 
 ## Contributions 📜
 
