@@ -38,5 +38,5 @@ Here are some of my most used languages and frameworks, etc:
 
 Email: praveshk04@outlook.com
 
-## 👋 Have a nice day!
+## Have a nice day! 👋
 
