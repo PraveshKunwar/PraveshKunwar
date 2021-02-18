@@ -20,10 +20,10 @@ Hey, I am Pravesh Kunwar! 👋
 <br><br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=radical" style="text-decoration:none; color: white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=tokyonight" style="text-decoration:none; color: white"/>
 </div>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&theme=tokyonight" />
   <p align="center">For email: Please email me at <b>praveshk04@outlook.com</b></p>
   </div>
 
