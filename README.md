@@ -7,7 +7,7 @@
 </div>
 
 ## About Me 🕵️
-Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Michigan that loves to code, especially with Javascript. I was introduced to programming a couple years ago, and it has now become my passion.
+Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Michigan that loves to code, especially with Javascript and Typescript. I was introduced to programming a couple years ago, and it has now become my passion.
 
 ### Projects
 
