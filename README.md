@@ -23,10 +23,10 @@ Here are some of my most notable projects:
 Here are some of my most used languages and frameworks, etc: 
 
 - ⭐ Typescript
-- ⭐ Javascript (Node.js, Express.js, EJS, React)
-- ⭐ CSS (frameworks: bootstrap, framer motion, bulma, scss, styled components)
-- ⭐ HTML (JSX)
-- ⭐ Python (learning)
+- ⭐ Javascript (Node.js, Express.js, EJS, React.js)
+- ⭐ CSS (Frameworks: Bootstrap, Framer Motion, Bulma, SASS, Styled Components)
+- ⭐ HTML (JSX, TSX)
+- ⭐ Python, C, C++ (learning soon!)
 - ⭐ MongoDB (Database)
 - ⭐ Git
 
