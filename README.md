@@ -26,7 +26,7 @@ Here are some of my most used languages and frameworks, etc:
 - ⭐ HTML (JSX, TSX)
 - ⭐ Python, C, C++ (learning soon!)
 - ⭐ MongoDB (Database)
-- ⭐ Git
+- ⭐ Git CLI, Heroku CLI.
 
 
 ## Contributions 📜
