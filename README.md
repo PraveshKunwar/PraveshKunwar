@@ -38,6 +38,7 @@ Here are some of my most used languages and frameworks, etc:
 > Also, check out the link tree down below to see my other socials.
 
 Email: praveshk04@outlook.com
+
 LinkTree: [https://linktr.ee/PraveshK](https://linktr.ee/PraveshK)
 
 ## Have a nice day! 👋
