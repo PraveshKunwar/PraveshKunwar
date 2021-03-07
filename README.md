@@ -1,4 +1,4 @@
-## Hey, I am Pravesh Kunwar! Welcome  :) 👋
+## Hey, I am Pravesh Kunwar! Welcome 👋
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=tokyonight" style="text-decoration:none; color: white"/>
