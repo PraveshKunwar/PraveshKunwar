@@ -10,6 +10,7 @@ Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Mi
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&layout=compact&theme=tokyonight&card_width=500"/>
 </details>
 </div>
+
 ### Projects
 
 Here are some of my most notable projects:
