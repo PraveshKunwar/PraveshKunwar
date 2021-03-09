@@ -34,6 +34,7 @@ Here are some of my most used languages and frameworks, etc:
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B155%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B180%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B145%25)
+![NodeJS/ExpressJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%68A063&message=TypeScript%EF%B8%B145%25)
 
 ## Contributions 📜
 
