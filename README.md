@@ -36,7 +36,7 @@ Here are some of my most used languages and frameworks, etc:
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B180%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B145%25)
 ![NodeJS/ExpressJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=68A063&message=NodeJS/ExpressJS%EF%B8%B140%25)
-![ReactJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=61DBFB&message=ReactJS%EF%B8%B140%70)
+![ReactJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=61DBFB&message=ReactJS%EF%B8%B140%25)
 ![Redux](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=764abc&message=Redux%EF%B8%B140%30)
 ![GraphQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=e535ab&message=GraphQL%EF%B8%B140%15)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=306998&message=Python%EF%B8%B140%20)
