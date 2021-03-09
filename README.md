@@ -6,9 +6,7 @@ Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Mi
 <div align="center">
 <details>
   <summary>Github Statistics</summary>
-    <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/github-metrics.svg" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveshKunwar&show_icons=true&theme=tokyonight&card_width=600&layout=compact" style="text-decoration:none; color: white"/>   <br><br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&layout=compact&theme=tokyonight&card_width=500"/>
+   <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/github-metrics.svg" />
 </details>
 </div>
 ### Projects
