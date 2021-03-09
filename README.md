@@ -4,13 +4,13 @@
 Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Michigan that loves to code, especially with Javascript and Typescript. I was introduced to programming a couple years ago, and it has now become my passion.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
 <details>
   <summary>Github Statistics</summary>
    <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/github-metrics.svg" />
 <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&layout=compact&theme=tokyonight"/><br><br>
 </details>
+    <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
 </div>
 ### Projects
 
