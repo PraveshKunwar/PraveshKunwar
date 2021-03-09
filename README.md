@@ -31,18 +31,18 @@ Here are some of my most used languages and frameworks, etc:
 - ⭐ Git CLI, Heroku CLI.
 
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B1100%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B155%25)
-![Bootstrap](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=602C50&message=Bootstrap%EF%B8%B140%30)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B165%25)
+![Bootstrap](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=602C50&message=Bootstrap%EF%B8%B130%30)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B180%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B145%25)
-![NodeJS/ExpressJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=68A063&message=NodeJS/ExpressJS%EF%B8%B140%25)
-![ReactJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=61DBFB&message=ReactJS%EF%B8%B140%25)
-![Redux](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=764abc&message=Redux%EF%B8%B140%30)
-![GraphQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=e535ab&message=GraphQL%EF%B8%B140%15)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=306998&message=Python%EF%B8%B140%20)
-![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=4DB33D&message=MongoDB%EF%B8%B140%20)
-![Github](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=211F1F&message=MongoDB%EF%B8%B140%90)
-![HerokuCLI](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=6762a6&message=HerokuCLI%EF%B8%B140%90)
+![NodeJS/ExpressJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=68A063&message=NodeJS/ExpressJS%EF%B8%B165%25)
+![ReactJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=61DBFB&message=ReactJS%EF%B8%B185%25)
+![Redux](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=764abc&message=Redux%EF%B8%B145%25)
+![GraphQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=e535ab&message=GraphQL%EF%B8%B120%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=306998&message=Python%EF%B8%B130%25)
+![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=4DB33D&message=MongoDB%EF%B8%B145%25)
+![Github](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=211F1F&message=MongoDB%EF%B8%B190%25)
+![HerokuCLI](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=6762a6&message=HerokuCLI%EF%B8%B125%25)
 
 ## Contributions 📜
 
