@@ -32,7 +32,7 @@ Here are some of my most used languages and frameworks, etc:
 
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B1100%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B165%25)
-![Bootstrap](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=602C50&message=Bootstrap%EF%B8%B130%30)
+![Bootstrap](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=602C50&message=Bootstrap%EF%B8%B130%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B180%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B145%25)
 ![NodeJS/ExpressJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=68A063&message=NodeJS/ExpressJS%EF%B8%B165%25)
