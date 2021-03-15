@@ -12,7 +12,7 @@ Hi, my name is Pravesh Kunwar. I am a 17 year old software developer based in Mi
 </details>
     <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
 </div>
-
+   <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/github-metrics.svg" />
 ### Projects
 
 Here are some of my most notable projects:
