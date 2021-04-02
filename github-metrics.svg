@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1558" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1571" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -1075,7 +1075,7 @@
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-          8 issue comments
+          10 issue comments
         </div>
       </section>
     
@@ -1314,8 +1314,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 3.7037037037037033px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               03
             </div>
           
@@ -1398,14 +1398,14 @@
             </div>
           
             <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 1.8518518518518516px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               17
             </div>
           
             <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 7.4074074074074066px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               18
             </div>
           
@@ -1456,8 +1456,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">17</span>
-                <div class="bar" style="height: 30.357142857142854px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">14</span>
+                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Mon
               </div>
             
@@ -1480,8 +1480,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">2</span>
-                <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">3</span>
+                <div class="bar" style="height: 5.357142857142857px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Fri
               </div>
             
@@ -1500,26 +1500,20 @@
           <div class="chart-bars horizontal">
             
               <div class="entry">
-                <span class="name">TypeScript</span>
-                <div class="bar" style="width: 52.06399999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                <span class="value">65%</span>
-              </div>
-            
-              <div class="entry">
                 <span class="name">JavaScript</span>
-                <div class="bar" style="width: 26.336%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                <span class="value">33%</span>
+                <div class="bar" style="width: 40.248%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">50%</span>
               </div>
             
               <div class="entry">
-                <span class="name">HTML</span>
-                <div class="bar" style="width: 1.5759999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">2%</span>
+                <span class="name">TypeScript</span>
+                <div class="bar" style="width: 39.712%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">50%</span>
               </div>
             
               <div class="entry">
                 <span class="name">CSS</span>
-                <div class="bar" style="width: 0.023999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 0.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">0%</span>
               </div>
             
@@ -1560,6 +1554,98 @@
       <section>
         
           
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
+                    
+                    Commented on <div class="issue">#23 🚀 Added new constants, restarting Guild.ts. </div>
+                  </div>
+                    <div class="details">
+                    <div>opened by PraveshKunwar in <div class="repo">Gencord/gencord</div></div>
+                    <div class="comment">You can merge it whenever you like, if you want to wait for others to review that's fine, but it should be ok to merge.</div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
+                    
+                    Commented on <div class="issue">#23 🚀 Added new constants, restarting Guild.ts. </div>
+                  </div>
+                    <div class="details">
+                    <div>opened by PraveshKunwar in <div class="repo">Gencord/gencord</div></div>
+                    <div class="comment">🚀 Added Guild.ts, constructor will be fixed tmrw.</div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">PraveshKunwar/gencord</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#15fe3bb</div>
+                        <div class="message">(feat): Adding new Guild.ts, constructor will be fixed later.</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
           
             <div class="row fill-width">
               <section class="activity">
@@ -1611,113 +1697,6 @@
                       <div class="commit">
                         <div class="sha">#1ef35a4</div>
                         <div class="message">(feat): Restarting Guild.ts, added new constants.</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">PraveshKunwar/gencord</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#75e67f8</div>
-                        <div class="message">(fix): Lintified the files</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 2 commits in <div class="repo">Homeshefz/website</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">website</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#0601e42</div>
-                        <div class="message">Initial commits</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#726a422</div>
-                        <div class="message">Update README.md</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">Homeshefz/website</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#726a422</div>
-                        <div class="message">Update README.md</div>
                       </div>
                     
                   </div>
@@ -1927,7 +1906,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated Fri, 02 Apr 2021 03:08:46 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Fri, 02 Apr 2021 04:05:46 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
