@@ -1080,7 +1080,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        772 Commits
+                        773 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1221,11 +1221,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="319.28839182806803" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="319.28839182806803" y="0" width="89.41466482935148" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="408.7030566574195" y="0" width="18.429168227051438" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="427.13222488447093" y="0" width="17.54776595319209" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.679990837663" y="0" width="15.320009162336977" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.8727006050235" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="320.8727006050235" y="0" width="88.4079217459764" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="409.2806223509999" y="0" width="18.22166940479058" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="427.5022917557905" y="0" width="17.350191069521987" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.85248282531245" y="0" width="15.147517174687511" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1238,10 +1238,10 @@
                             </div>
                             <small>
                                 <div>
-                                    190 kB
+                                    194 kB
                                 </div>
                                 <div>
-                                    69.41%
+                                    69.75%
                                 </div>
                             </small>
                         </div>
@@ -1257,7 +1257,7 @@
                                     11 kB
                                 </div>
                                 <div>
-                                    4.01%
+                                    3.96%
                                 </div>
                             </small>
                         </div>
@@ -1273,7 +1273,7 @@
                                     9.16 kB
                                 </div>
                                 <div>
-                                    3.33%
+                                    3.29%
                                 </div>
                             </small>
                         </div>
@@ -1291,7 +1291,7 @@
                                     53.4 kB
                                 </div>
                                 <div>
-                                    19.44%
+                                    19.22%
                                 </div>
                             </small>
                         </div>
@@ -1307,7 +1307,7 @@
                                     10.4 kB
                                 </div>
                                 <div>
-                                    3.81%
+                                    3.77%
                                 </div>
                             </small>
                         </div>
@@ -1447,9 +1447,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            6
+                            7
                         </span>
-                        <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         17
                     </div>
                     <div class="entry">
@@ -1504,40 +1504,40 @@
                             <span class="value">
                                 5
                             </span>
-                            <div class="bar" style="height: 15.625px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 14.705882352941178px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
                             <span class="value">
                                 6
                             </span>
-                            <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 17.647058823529413px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
                             <span class="value">
                                 3
                             </span>
-                            <div class="bar" style="height: 9.375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
                             <span class="value">
                                 14
                             </span>
-                            <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 41.17647058823529px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
                             <span class="value">
                                 12
                             </span>
-                            <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 35.294117647058826px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
                             <span class="value">
-                                16
+                                17
                             </span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Fri
@@ -1546,7 +1546,7 @@
                             <span class="value">
                                 3
                             </span>
-                            <div class="bar" style="height: 9.375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -1560,7 +1560,7 @@
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 53.52799999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 53.936%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">
                                 67%
                             </span>
@@ -1569,16 +1569,16 @@
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 26.104000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 25.704%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
-                                33%
+                                32%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 Emacs Lisp
                             </span>
-                            <div class="bar" style="width: 0.368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.36000000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 0%
                             </span>
@@ -1595,6 +1595,37 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            PraveshKunwar/Ultimatum
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #afb8a46
+                                        </span>
+                                        <span class="message">
+                                            (feat): Warn system being implemented.
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1714,37 +1745,6 @@
                                         </span>
                                         <span class="message">
                                             (feat): Restarting website.
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            PraveshKunwar/Ultimatum
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #fb8666e
-                                        </span>
-                                        <span class="message">
-                                            (chore): Need to add JS configuration, basis created.
                                         </span>
                                     </div>
                                 </div>
@@ -1992,7 +1992,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Fri, 09 Apr 2021 17:11:28 GMT with lowlighter/metrics@3.6.0
+                    Last updated Fri, 09 Apr 2021 18:04:21 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
