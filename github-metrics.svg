@@ -1956,7 +1956,7 @@ err ? reject(this) : false
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Tue, 13 Apr 2021 03:09:34 GMT with lowlighter/metrics@3.6.0
+                    Last updated Tue, 13 Apr 2021 04:04:27 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
