@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1545" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1511" class="">
     <defs>
         <style/>
     </defs>
@@ -1110,7 +1110,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        801 Commits
+                        802 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1251,11 +1251,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.8028847336912" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="323.8028847336912" y="0" width="86.59959291718079" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="410.40247765087196" y="0" width="17.81862667552546" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="428.22110432639744" y="0" width="16.966424455904637" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.187528782302" y="0" width="14.812471217697908" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.3593460070721" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="324.3593460070721" y="0" width="86.24577250288834" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="410.6051185099604" y="0" width="17.745825018380422" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="428.35094352834085" y="0" width="16.89710464587053" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.24804817421136" y="0" width="14.751951825788606" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1268,10 +1268,10 @@
                             </div>
                             <small>
                                 <div>
-                                    200 kB
+                                    201 kB
                                 </div>
                                 <div>
-                                    70.39%
+                                    70.51%
                                 </div>
                             </small>
                         </div>
@@ -1287,7 +1287,7 @@
                                     11 kB
                                 </div>
                                 <div>
-                                    3.87%
+                                    3.86%
                                 </div>
                             </small>
                         </div>
@@ -1303,7 +1303,7 @@
                                     9.16 kB
                                 </div>
                                 <div>
-                                    3.22%
+                                    3.21%
                                 </div>
                             </small>
                         </div>
@@ -1321,7 +1321,7 @@
                                     53.5 kB
                                 </div>
                                 <div>
-                                    18.83%
+                                    18.75%
                                 </div>
                             </small>
                         </div>
@@ -1337,7 +1337,7 @@
                                     10.4 kB
                                 </div>
                                 <div>
-                                    3.69%
+                                    3.67%
                                 </div>
                             </small>
                         </div>
@@ -1393,9 +1393,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            2
+                            3
                         </span>
-                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         03
                     </div>
                     <div class="entry">
@@ -1509,10 +1509,8 @@
                         21
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            1
-                        </span>
-                        <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         22
                     </div>
                     <div class="entry">
@@ -1588,7 +1586,7 @@
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 62.70399999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 62.768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">
                                 78%
                             </span>
@@ -1597,7 +1595,7 @@
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 17.048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 16.984%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 21%
                             </span>
@@ -1623,6 +1621,37 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            PraveshKunwar/Hackathon-Project
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #f0f74b0
+                                        </span>
+                                        <span class="message">
+                                            (feat): Adding Chakra ui.
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1726,47 +1755,6 @@
                                         </span>
                                         <span class="message">
                                             (fix): fixed payload object.
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">
-                                            Gencord/gencord
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #741671f
-                                        </span>
-                                        <span class="message">
-                                            (fix): Events are properly working now.
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #0e93278
-                                        </span>
-                                        <span class="message">
-                                            Merge pull request #38 from PraveshKunwar/master
-
-(fix): Events are properly working now.
                                         </span>
                                     </div>
                                 </div>
@@ -2017,7 +2005,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Sat, 17 Apr 2021 03:06:32 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sat, 17 Apr 2021 04:02:53 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
