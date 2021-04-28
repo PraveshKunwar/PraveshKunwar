@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1592" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1546" class="">
     <defs>
         <style/>
     </defs>
@@ -1110,7 +1110,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        889 Commits
+                        896 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1251,11 +1251,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.8258370241524" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="337.8258370241524" y="0" width="79.55596989363889" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="417.3818069177913" y="0" width="15.693074762541587" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="433.07488168033285" y="0" width="14.375042815486847" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.4499244958197" y="0" width="12.550075504180281" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.44493899891245" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="338.44493899891245" y="0" width="79.15283017190542" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="417.59776917081786" y="0" width="15.61355210947895" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="433.21132128029683" y="0" width="14.302199121062785" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.5135204013596" y="0" width="12.486479598640402" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1268,10 +1268,10 @@
                             </div>
                             <small>
                                 <div>
-                                    246 kB
+                                    248 kB
                                 </div>
                                 <div>
-                                    73.44%
+                                    73.57%
                                 </div>
                             </small>
                         </div>
@@ -1287,7 +1287,7 @@
                                     11.4 kB
                                 </div>
                                 <div>
-                                    3.41%
+                                    3.39%
                                 </div>
                             </small>
                         </div>
@@ -1303,7 +1303,7 @@
                                     9.16 kB
                                 </div>
                                 <div>
-                                    2.73%
+                                    2.71%
                                 </div>
                             </small>
                         </div>
@@ -1321,7 +1321,7 @@
                                     58 kB
                                 </div>
                                 <div>
-                                    17.29%
+                                    17.21%
                                 </div>
                             </small>
                         </div>
@@ -1337,7 +1337,7 @@
                                     10.4 kB
                                 </div>
                                 <div>
-                                    3.13%
+                                    3.11%
                                 </div>
                             </small>
                         </div>
@@ -1357,7 +1357,7 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 13:00
+                            Mostly push code around 14:00
                         </li>
                         <li>
                             Mostly active on monday
@@ -1377,23 +1377,23 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            3
+                            10
                         </span>
-                        <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         01
                     </div>
                     <div class="entry">
                         <span class="value">
-                            4
+                            3
                         </span>
-                        <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 6.8181818181818175px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         02
                     </div>
                     <div class="entry">
                         <span class="value">
                             3
                         </span>
-                        <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 6.8181818181818175px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         03
                     </div>
                     <div class="entry">
@@ -1435,42 +1435,42 @@
                         <span class="value">
                             4
                         </span>
-                        <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         11
                     </div>
                     <div class="entry">
                         <span class="value">
                             10
                         </span>
-                        <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         12
                     </div>
                     <div class="entry">
                         <span class="value">
-                            24
+                            20
                         </span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 45.45454545454545px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         13
                     </div>
                     <div class="entry">
                         <span class="value">
                             22
                         </span>
-                        <div class="bar" style="height: 45.83333333333333px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         14
                     </div>
                     <div class="entry">
                         <span class="value">
                             1
                         </span>
-                        <div class="bar" style="height: 2.083333333333333px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         15
                     </div>
                     <div class="entry">
                         <span class="value">
                             1
                         </span>
-                        <div class="bar" style="height: 2.083333333333333px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         16
                     </div>
                     <div class="entry">
@@ -1487,35 +1487,33 @@
                         <span class="value">
                             1
                         </span>
-                        <div class="bar" style="height: 2.083333333333333px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         19
                     </div>
                     <div class="entry">
                         <span class="value">
-                            3
+                            2
                         </span>
-                        <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         20
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            1
-                        </span>
-                        <div class="bar" style="height: 2.083333333333333px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         21
                     </div>
                     <div class="entry">
                         <span class="value">
                             2
                         </span>
-                        <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         22
                     </div>
                     <div class="entry">
                         <span class="value">
                             1
                         </span>
-                        <div class="bar" style="height: 2.083333333333333px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         23
                     </div>
                 </div>
@@ -1528,14 +1526,14 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">
-                                3
+                                1
                             </span>
-                            <div class="bar" style="height: 3.061224489795918px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.1363636363636365px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
                             <span class="value">
-                                49
+                                44
                             </span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Mon
@@ -1544,35 +1542,35 @@
                             <span class="value">
                                 12
                             </span>
-                            <div class="bar" style="height: 12.244897959183673px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
                             <span class="value">
-                                5
+                                12
                             </span>
-                            <div class="bar" style="height: 5.1020408163265305px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
                             <span class="value">
                                 2
                             </span>
-                            <div class="bar" style="height: 2.0408163265306123px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
                             <span class="value">
                                 7
                             </span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 7.954545454545454px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
                             <span class="value">
                                 2
                             </span>
-                            <div class="bar" style="height: 2.0408163265306123px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -1586,18 +1584,18 @@
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 71.232%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 72.672%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">
-                                89%
+                                91%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 8.768%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 7.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                11%
+                                9%
                             </span>
                         </div>
                     </div>
@@ -1621,7 +1619,7 @@
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
-                                            PraveshKunwar/PraveshKunwar
+                                            PraveshKunwar/Hackathon-Project
                                         </span>
                                     </div>
                                 </div>
@@ -1634,41 +1632,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #7ff6c58
+                                            #1acea65
                                         </span>
                                         <span class="message">
-                                            Update README.md
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            PraveshKunwar/PraveshKunwar
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #a145259
-                                        </span>
-                                        <span class="message">
-                                            Update README.md
+                                            Update addcovid.tsx
                                         </span>
                                     </div>
                                 </div>
@@ -1696,10 +1663,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #68c4dbb
+                                            #37498cf
                                         </span>
                                         <span class="message">
-                                            feat: working now maybe?
+                                            Update addvc.tsx
                                         </span>
                                     </div>
                                 </div>
@@ -1709,24 +1676,29 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">
-                                            #38 chore: add client methods
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            PraveshKunwar/Hackathon-Project
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        opened by PraveshKunwar in
-                                        <span class="repo">
-                                            discordjs/discord.js-next
+                                        on branch
+                                        <span class="code">
+                                            master
                                         </span>
                                     </div>
-                                    <div class="comment">
-                                        @PyroTechniac yeah mb I understood what he said, I just mistyped. Anyways, haven't thought about structure too much. Kind of continued what was already being implemented currently tbh, within the current version of discord js. Not sure how we could go about it, and also not sure what you guys were thinking. How do you guys think we could go about working on this?
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #118270d
+                                        </span>
+                                        <span class="message">
+                                            Update checkcovid.tsx
+                                        </span>
                                     </div>
                                 </div>
                             </section>
@@ -1735,32 +1707,60 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">
-                                            #38 chore: add client methods
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            PraveshKunwar/Hackathon-Project
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        opened by PraveshKunwar in
-                                        <span class="repo">
-                                            discordjs/discord.js-next
+                                        on branch
+                                        <span class="code">
+                                            master
                                         </span>
                                     </div>
-                                    <div class="comment">
-                                        &gt; Before you continue much further, have you disclosed your structure and plans with the team?
-&gt; 
-&gt; -next's structure is vastly different to any other version of discord.js, and many things haven't been set on stone yet.
-&gt; 
-&gt; For example, this `Client` class, we could end up using `tsyringe` (or a custom solution) to access to the WS and REST modules, and since containers are globally available, no Client class would be necessary (and this would reduce discord.js's memory usage as we'd remove a property from all structures). We could even end up doing something similar to what Hydra did in voice: a helper function that initialises all -next components, e.g. `initialize({ ...options });`.
-&gt; 
-&gt; Again, nothing of this is set on stone, our focus right now is on v13.
-
-mm good idea. haven't thought much about it, and didn't know that we were planning on using tsyringe. we could definitely try using tsyringe. if you have any ideas on how we can start doing that, that would be pretty good.
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #f8feabd
+                                        </span>
+                                        <span class="message">
+                                            Update checkvc.tsx
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            PraveshKunwar/Hackathon-Project
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #6f802e1
+                                        </span>
+                                        <span class="message">
+                                            Update index.tsx
+                                        </span>
                                     </div>
                                 </div>
                             </section>
@@ -2010,7 +2010,7 @@ mm good idea. haven't thought much about it, and didn't know that we were planni
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Wed, 28 Apr 2021 01:26:13 GMT with lowlighter/metrics@3.7.0
+                    Last updated Wed, 28 Apr 2021 02:24:17 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
