@@ -33,6 +33,7 @@ Here are some of my most used languages and frameworks, etc:
 - ⭐ Python, C, C++ (learning soon!)
 - ⭐ MongoDB (Database)
 - ⭐ Git CLI, Heroku CLI.
+- 🌌 Rust (Learning)
 
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B1100%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B165%25)
