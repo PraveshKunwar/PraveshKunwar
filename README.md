@@ -48,6 +48,7 @@ Here are some of my most used languages and frameworks, etc:
 ![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=4DB33D&message=MongoDB%EF%B8%B145%25)
 ![Github](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=FFFFFF&message=Github%EF%B8%B190%25)
 ![HerokuCLI](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=6762a6&message=HerokuCLI%EF%B8%B125%25)
+![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=b88c27&message=Rust%EF%B8%B120%25)
 
 
 ## Contributions 📜
