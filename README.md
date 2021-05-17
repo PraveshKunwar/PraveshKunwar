@@ -59,6 +59,7 @@ Here are some of my most used languages and frameworks, etc:
 
 > If you would like to contribute to any of my projects,
 > please contact me by emailing me.
+> Usually, I have a CONTRIBUTING.md file that you can view, which will give all the info on how to contribute on a specifc project.
 > Also, check out the link tree down below to see my other socials.
 
 Email: praveshk04@outlook.com
