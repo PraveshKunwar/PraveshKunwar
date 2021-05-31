@@ -15,7 +15,7 @@ Hi, my name is Pravesh Kunwar. I am a 17 year old software developer that loves 
 
 ### 🌌 Website
 
-Check out my website [here!](https://praveshk.vercel.app) { WIP } (New Features Coming!)
+Check out my website [here!](https://praveshk.vercel.app) { WIP! } (New Features Coming!)
 
 ### Projects
 
