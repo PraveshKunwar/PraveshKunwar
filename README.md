@@ -73,7 +73,7 @@ interface ContactTypes {
 }
 
 const ContactInfo: ContactTypes = {
-  email: "praveshk04@outlook.com"
+  email: "praveshk04@outlook.com",
   LinkTree: "https://linktr.ee/PraveshK"
 }
 ```
