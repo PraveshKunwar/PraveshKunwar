@@ -66,10 +66,16 @@ Here are some of my most used languages and frameworks, etc:
 > Usually, I have a CONTRIBUTING.md file that you can view, which will give all the info on how to contribute on a specifc project.
 > Also, check out the link tree down below to see my other socials.
 
-Email: praveshk04@outlook.com
+```ts
+interface ContactTypes {
+  email: string;
+  LinkTree: string;
+}
 
-LinkTree: [https://linktr.ee/PraveshK](https://linktr.ee/PraveshK)
+const ContactInfo: ContactTypes = {
+  email: "praveshk04@outlook.com"
+  LinkTree: "https://linktr.ee/PraveshK"
+}
+```
 
 ## Have a nice day! 👋
-
-
