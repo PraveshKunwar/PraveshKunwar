@@ -67,12 +67,7 @@ Here are some of my most used languages and frameworks, etc:
 > Also, check out the link tree down below to see my other socials.
 
 ```ts
-interface ContactTypes {
-  email: string;
-  LinkTree: string;
-}
-
-const ContactInfo: ContactTypes = {
+const ContactInfo = {
   email: "praveshk04@outlook.com",
   LinkTree: "https://linktr.ee/PraveshK"
 }
