@@ -1509,8 +1509,8 @@
               18
             </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1560,8 +1560,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">6</span>
-                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">4</span>
+                <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1909,7 +1909,7 @@ docs: updated README.md and added ./github/CONTRIBUTING.md file</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 10 Jun 2021 19:18:53  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 10 Jun 2021 20:05:28  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
