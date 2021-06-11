@@ -32,6 +32,14 @@ Here are some of my most notable projects:
 
 ### Languages
 
+### FAQ
+
+- ❓ Q: What does it mean if a repo was "archived"? 
+- ✔ A: If I archived a repo, it means that I lost interest in developing the program.
+
+- ❓ Q: What's your favorite language?
+- ✔ A: Currently, Typescript, but Rust is a language that I am really liking as well!
+
 Here are some of my most used languages and frameworks, etc: 
 
 - ⭐ Typescript
