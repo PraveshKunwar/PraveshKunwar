@@ -40,6 +40,9 @@ Here are some of my most notable projects:
 - ❓ Q: What's your favorite language?
 - ✔ A: Currently, Typescript, but Rust is a language that I am really liking as well!
 
+- ❓ Q: What kind of projects do you work on?
+- ✔ A: I mainly focus on frontend projects, developing and designing websites with modern day tools. However, I have also programmed in libraries such as Discord.JS!
+
 Here are some of my most used languages and frameworks, etc: 
 
 - ⭐ Typescript
