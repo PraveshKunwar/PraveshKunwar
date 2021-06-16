@@ -82,7 +82,6 @@ Here are some of my most used languages and frameworks, etc:
 
 You can contact me:
 
-Via [email](praveshk04@outlook.com)
-Via [LinkTree](https://linktr.ee/PraveshK)
+Via [email](praveshk04@outlook.com) or [LinkTree](https://linktr.ee/PraveshK)
 
 ## Have a nice day! 👋
