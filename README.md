@@ -13,7 +13,7 @@ Hi, my name is Pravesh Kunwar. I am a 17 year old software developer that loves 
     <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
 </div>
 
-### 🌌 Website
+### Website 🌌
 
 Check out my website [here!](https://praveshk.vercel.app) { WIP! } (New Features Coming!)
 
@@ -21,14 +21,15 @@ Check out my website [here!](https://praveshk.vercel.app) { WIP! } (New Features
 const WebsiteFeatures = ["Spotify Dashboard (Personal Favorite)", "Github Stats"];
 ```
 
-### Projects
+### Projects 🌐
 
 Here are some of my most notable projects:
 
-- ✨ Ultimatum - My discord bot written in Typescript.
+- ✨ Ultimatum - One of my discord bots written in Typescript.
 - ✨ Statistify - An all in one Spotify stats tracker.
 - ✨ Portfolio - My personal portfolio using Typescript and Framer Motion (coming soon!)
 - ✨ Socialistic - A project that allows you to access all social media accounts in one customizable link (coming soon!)
+- ✨ Spotifibe - A spotify to youtube playlist converter (coming soon!)
 
 ### Languages
 
@@ -70,18 +71,18 @@ Here are some of my most used languages and frameworks, etc:
 ![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=b88c27&message=Rust%EF%B8%B120%25)
 
 
-## Contributions 📜
+## Contributing 📜
 
 > If you would like to contribute to any of my projects,
 > please contact me by emailing me.
 > Usually, I have a CONTRIBUTING.md file that you can view, which will give all the info on how to contribute on a specifc project.
 > Also, check out the link tree down below to see my other socials.
 
-```ts
-const ContactInfo = {
-  email: "praveshk04@outlook.com",
-  LinkTree: "https://linktr.ee/PraveshK"
-}
-```
+## Contact Info
+
+You can contact me:
+
+Via [email](praveshk04@outlook.com)
+Via [LinkTree](https://linktr.ee/PraveshK)
 
 ## Have a nice day! 👋
