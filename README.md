@@ -17,10 +17,6 @@ Hi, my name is Pravesh Kunwar. I am a 17 year old software developer that loves 
 
 Check out my website [here!](https://praveshk.vercel.app) { WIP! } (New Features Coming!)
 
-```ts
-const WebsiteFeatures = ["Spotify Dashboard (Personal Favorite)", "Github Stats"];
-```
-
 ### Projects 🌐
 
 Here are some of my most notable projects:
