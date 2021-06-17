@@ -1213,7 +1213,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            1058 Commits
+            1059 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1324,12 +1324,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.2632447919196" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="343.2632447919196" y="0" width="69.0681299470694" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="412.331374738989" y="0" width="13.500192962861679" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="425.83156770185064" y="0" width="12.335106206247907" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.1666739080985" y="0" width="11.064209350648023" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="449.2308832587466" y="0" width="10.769116741253416" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.3184145182551" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="343.3184145182551" y="0" width="69.03548838682649" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="412.35390290508155" y="0" width="13.493812779089135" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="425.8477156841707" y="0" width="12.329276641836037" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.1769923260067" y="0" width="11.058980411391435" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="449.23597273739813" y="0" width="10.7640272626018" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1339,8 +1339,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>291 kB</div>
-                                <div>74.62%</div>
+                                <div>292 kB</div>
+                                <div>74.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1360,7 +1360,7 @@
                     </div>
                             <small>
                                 <div>9.41 kB</div>
-                                <div>2.41%</div>
+                                <div>2.4%</div>
                             </small>
                         </div>
                     </section>
@@ -1479,8 +1479,8 @@
               12
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               13
             </div>
                     <div class="entry">
@@ -1560,8 +1560,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">4</span>
-                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">5</span>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1584,6 +1584,25 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">PraveshKunwar/Winbi</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#8e6a9d2</span>
+                                        <span class="message">feat: initial commandEventHandler.ts</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1644,25 +1663,6 @@
                                     <div class="commit">
                                         <span class="sha">#c88be41</span>
                                         <span class="message">Update README.md</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">PraveshKunwar/PraveshKunwar</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#8b7a887</span>
-                                        <span class="message">fix: Headings and emoji placements.</span>
                                     </div>
                                 </div>
                             </section>
@@ -1902,7 +1902,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 17 Jun 2021 13:19:34  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 17 Jun 2021 14:04:56  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
