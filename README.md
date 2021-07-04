@@ -1,4 +1,4 @@
-## Hey, I am Pravesh Kunwar! Welcome :) 👋
+## Hey, I am Pravesh Kunwar! Welcome :) 
 
 ## About Me 🕵️
 Hi, my name is Pravesh Kunwar. I am a software developer that loves to code, especially with Javascript and Typescript. I was introduced to programming a couple years ago, and it has now become my passion!
