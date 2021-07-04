@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1548" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1902" class="">
     <defs>
         <style/>
     </defs>
@@ -1509,8 +1509,8 @@
               18
             </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1540,8 +1540,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">7</span>
-                <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">8</span>
+                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1584,6 +1584,121 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 39 commits in <span class="repo">PraveshKunwar/discord.js</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a11a105</span>
+                                        <span class="message">refactor: rename events to be consistent with WS names (#6010)
+
+Co-authored-by: Noel &lt;buechler.noel@outlook.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7dd1a8d</span>
+                                        <span class="message">docs(Collector): properly document endReason (#6016)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#568691c</span>
+                                        <span class="message">fix: correct permissions checks and cache on update (#6015)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4adfc45</span>
+                                        <span class="message">docs(CreateInviteOptions): fix TargetType link (#6017)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#98e45a5</span>
+                                        <span class="message">feat(Formatters): added new URL utilities and docs (#6014)
+
+* feat(Formatters): added new URL utilities and docs
+
+* refactor: use static class to fix docsgen error
+
+* fix(Typings): declare members as public
+
+* docs(Formatters): add method tags
+
+* docs: remove empty line
+
+Co-authored-by: SpaceEEC &lt;spaceeec@yahoo.com&gt;
+
+Co-authored-by: SpaceEEC &lt;spaceeec@yahoo.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#56b5b7e</span>
+                                        <span class="message">types(MessageOptions): fix components being optional (#6005)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0dc5dd5</span>
+                                        <span class="message">types(*): create mention types (#6003)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1242c54</span>
+                                        <span class="message">types(VoiceState): fix optional params (#5993)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c40b06c</span>
+                                        <span class="message">types(ClientUser): updated `setAFK` signature (#6011)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e4be666</span>
+                                        <span class="message">fix(ThreadManager): fixed wrong private and fetchAll check (#6012)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3a718d8</span>
+                                        <span class="message">fix(Typings): Improve components typings in MessageEditOptions (#6002)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#27e217c</span>
+                                        <span class="message">chore(Constants): added new error codes (#5975)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fbdad6e</span>
+                                        <span class="message">docs(*): add class links to isX() methods (#6007)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fe6cc0c</span>
+                                        <span class="message">types(MessageSelectMenu): fix typings (#5995)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#726073f</span>
+                                        <span class="message">docs: WebSocketShard#send and TextBasedChannel#send (#5998)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1e73c25</span>
+                                        <span class="message">feat(RoleManager): added `edit` method, alias `Role#edit` (#5983)
+
+Co-authored-by: monbrey &lt;rsm999@uowmail.edu.au&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d742814</span>
+                                        <span class="message">docs(Util): methods removed on the base object (#5990)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d078dce</span>
+                                        <span class="message">ci: deprecate old dev releases on publish (#5992)
+
+Co-authored-by: Noel &lt;buechler.noel@outlook.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#521d26c</span>
+                                        <span class="message">types(Interactions): fix function overload types (#5989)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6edf55c</span>
+                                        <span class="message">fix(ApplicationCommand): fix typo in JSDoc (#5994)</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1660,25 +1775,6 @@
                                     <div class="commit">
                                         <span class="sha">#c6e6754</span>
                                         <span class="message">feat: test</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">DisHelper/DisHelper.js</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2b65e8b</span>
-                                        <span class="message">feat: inital commits</span>
                                     </div>
                                 </div>
                             </section>
@@ -1918,7 +2014,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sun, 04 Jul 2021 19:07:05  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sun, 04 Jul 2021 20:07:36  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
