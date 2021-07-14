@@ -47,7 +47,7 @@ Here are some of my most used languages and frameworks, etc:
 - ⭐ CSS (Frameworks: Bootstrap, Framer Motion, Bulma, SASS, Styled Components)
 - ⭐ HTML (JSX, TSX)
 - ⭐ Python, C, C++ (Learning)
-- ⭐ MongoDB (Database)
+- ⭐ MongoDB
 - ⭐ Git CLI, Heroku CLI.
 - 🌌 Rust (Learning)
 
