@@ -82,9 +82,6 @@ You can contact me:
 
 <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/insta.svg" width="24px" height="24px" /> praveshk\_
 
-<img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/linkedin.svg" width="24px" height="24px"/>
-<a href="https://www.linkedin.com/in/pravesh-kunwar-995478178">PraveshK</a>
-
 <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/mail.svg" width="24px" height="24px"/> praveshk04@outlook.com
 
 <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/yt.svg" width="24px" height="24px"/> PraveshK
