@@ -1,6 +1,7 @@
-## Hey, I am Pravesh Kunwar! Welcome :) 👋 
+## Hey, I am Pravesh Kunwar! Welcome :) 👋
 
 ## About Me 🕵️
+
 Hi, my name is Pravesh Kunwar. I am a software developer that loves to code, especially with Javascript and Typescript. I was introduced to programming a couple years ago, and it has now become my passion!
 
 <div align="center">
@@ -31,7 +32,7 @@ Here are some of my most notable projects:
 
 ### FAQ
 
-- ❓ Q: What does it mean if a repo was "archived"? 
+- ❓ Q: What does it mean if a repo was "archived"?
 - ✔ A: If I archived a repo, it means that I lost interest in developing the program.
 
 - ❓ Q: What's your favorite language?
@@ -40,7 +41,7 @@ Here are some of my most notable projects:
 - ❓ Q: What kind of projects do you work on?
 - ✔ A: I mainly focus on frontend projects, developing and designing websites with modern day tools. However, I have also programmed in libraries such as Discord.JS!
 
-Here are some of my most used languages and frameworks, etc: 
+Here are some of my most used languages and frameworks, etc:
 
 - ⭐ Typescript
 - ⭐ Javascript (Node.js, Express.js, EJS, React.js, Redux, GraphQL, Apollo Client, Next.js)
@@ -66,7 +67,6 @@ Here are some of my most used languages and frameworks, etc:
 ![HerokuCLI](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=6762a6&message=HerokuCLI%EF%B8%B125%25)
 ![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=b88c27&message=Rust%EF%B8%B120%25)
 
-
 ## Contributing 📜
 
 > If you would like to contribute to any of my projects,
@@ -78,6 +78,6 @@ Here are some of my most used languages and frameworks, etc:
 
 You can contact me:
 
-Via [email](praveshk04@outlook.com) or [LinkTree](https://linktr.ee/PraveshK)
+<img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/discord.svg" />
 
 ## Have a nice day! 👋
