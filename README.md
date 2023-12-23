@@ -14,10 +14,6 @@ Hi, my name is Pravesh Kunwar. I am a software developer that loves to code, esp
     <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
 </div>
 
-### Website 🌌
-
-Check out my website [here!](https://praveshk.vercel.app) { WIP! } (New Features Coming!)
-
 ### Projects 🌐
 
 Here are some of my most notable projects:
@@ -80,7 +76,7 @@ You can contact me:
 
 <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/discord.svg" /> PraveshK#4056
 
-<img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/insta.svg" width="24px" height="24px" /> praveshk\_
+<img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/insta.svg" width="24px" height="24px" /> pravesh.kunwar
 
 <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/mail.svg" width="24px" height="24px"/> praveshk04@outlook.com
 
