@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1302 Commits
+                            1303 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,11 +219,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.5361670482266" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="304.5361670482266" y="0" width="96.50961292090399" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="401.0457799691306" y="0" width="34.156257833373076" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="435.2020378025037" y="0" width="15.078148925657226" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="450.2801867281609" y="0" width="9.719813271839097" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.0374908997283" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="304.0374908997283" y="0" width="96.35157900811478" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="400.3890699078431" y="0" width="34.853574409148216" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="435.24264431699135" y="0" width="15.053458547152724" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="450.296102864144" y="0" width="9.703897135855959" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -236,7 +236,7 @@
                             </div>
                             <small>
                                 <div>1.19 MB</div>
-                                <div>66.2%</div>
+                                <div>66.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -247,8 +247,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>133 kB</div>
-                                <div>7.43%</div>
+                                <div>136 kB</div>
+                                <div>7.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -274,7 +274,7 @@
                             </div>
                             <small>
                                 <div>377 kB</div>
-                                <div>20.98%</div>
+                                <div>20.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -286,7 +286,7 @@
                             </div>
                             <small>
                                 <div>58.9 kB</div>
-                                <div>3.28%</div>
+                                <div>3.27%</div>
                             </small>
                         </div>
                     </section>
@@ -303,7 +303,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 37.0 characters per line of code written</li>
+                        <li>Has approximately 34.5 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -506,6 +506,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#16cd95a</div>
+                                        <div class="message">simpleplayer kinda done</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PraveshKunwar/p3-euchre</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#aafd530</div>
                                         <div class="message">added changes to pack</div>
                                     </div>
@@ -561,26 +581,6 @@
                                     <div class="commit">
                                         <div class="sha">#d6da499</div>
                                         <div class="message">pack.cpp in progress</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PraveshKunwar/p3-euchre</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#39422f2</div>
-                                        <div class="message">tried to implement pack::pack using istream</div>
                                     </div>
                                 </div>
                             </section>
@@ -851,7 +851,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2024, 05:08:05  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Feb 2024, 06:10:12  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
