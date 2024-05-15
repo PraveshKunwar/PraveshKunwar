@@ -21,23 +21,12 @@ Here are some of my most notable projects:
 - ✨ Ultimatum - One of my discord bots written in Typescript.
 - ✨ Portfolio - My portfolio using Typescript and Framer Motion (coming soon!)
   
-### Languages
-
-### FAQ
-
-- ❓ Q: What does it mean if a repo was "archived"?
-- ✔ A: If I archived a repo, it means that I lost interest in developing the program.
-
-- ❓ Q: What's your favorite language?
-- ✔ A: Currently, Typescript, but Python is a language that I like as well.
-
-- ❓ Q: What kind of projects do you work on?
-- ✔ A: I mainly focus on frontend projects, developing and designing websites with modern-day tools. Currently exploring different areas of programming to further my interest.
-
+### Languages and Tools
 Here are some of my most used languages and frameworks, etc:
 
 - ⭐ Typescript
 - ⭐ Javascript (Node.js, React.js, Next.js)
+- ⭐ C++
 - ⭐ HTML (JSX, TSX)
 - ⭐ Python (Learning)
 - ⭐ MongoDB
