@@ -50,6 +50,4 @@ You can contact me:
 
 <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/mail.svg" width="24px" height="24px"/> praveshk04@outlook.com
 
-<img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/yt.svg" width="24px" height="24px"/> PraveshK
-
 ## Have a nice day! 👋
