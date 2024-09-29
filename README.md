@@ -4,13 +4,12 @@
 
 Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, especially with Javascript, Typescript, and C++. 
 
+### Github Statistics 📊
+
 <div align="center">
-<details>
-  ### Github Statistics 📊
    <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/github-metrics.svg" />
 <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&layout=compact&theme=tokyonight"/><br><br>
-</details>
     <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
 </div>
 
