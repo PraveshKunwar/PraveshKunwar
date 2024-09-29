@@ -4,7 +4,7 @@
 
 Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, especially with Javascript, Typescript, and C++. 
 
-### Github Statistics 📊
+<h3 align="center">Github Statistics 📊</h3>
 
 <div align="center">
    <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/github-metrics.svg" />
