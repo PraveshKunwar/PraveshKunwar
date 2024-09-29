@@ -19,7 +19,7 @@ Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, espe
 <h3 align="center">Projects 🌐</h3>
 <div align="center">Here are some of my most notable projects:
 
-📜 Portfolio - My portfolio using Typescript and Next.JS. (WIP)
+📜 Portfolio - My portfolio using Typescript and Next.JS. (WIP)  <br>
 🎵 Playlistify - A personalized playlist generator for Spotify! (WIP)
 🤖 Ultimatum - One of my discord bots written in Typescript.
 〽️ findBlue - A networking platform for students and professors! (WIP)
