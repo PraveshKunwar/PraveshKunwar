@@ -65,7 +65,7 @@ Here are some of my most used languages and frameworks, etc: <br></br>
 
 <h3 align="center">Contact Info 📱</h3>
 <div align="center">
-You can contact and connect with me here: <br><br><br>
+You can contact and connect with me here: <br><br>
 <a href="https://linkedin.com/in/praveshkunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveshkunwar" height="30" width="30" /></a>
 <a href="https://instagram.com/pravesh.kunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pravesh.kunwar" height="30" width="30" /></a>
 </div>
