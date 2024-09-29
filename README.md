@@ -7,10 +7,13 @@ Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, espe
 <h3 align="center">Github Statistics 📊</h3>
 
 <div align="center">
-   <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/github-metrics.svg" />
+  <details>
+     <summary>Click to see my GitHub statistics!</summary>
+     <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/github-metrics.svg" />
 <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&layout=compact&theme=tokyonight"/><br><br>
     <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
+  </details>
 </div>
 
 <h3 align="center">Projects 🌐</h3>
