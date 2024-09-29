@@ -79,10 +79,8 @@ Here are some of my most used languages and frameworks, etc:
 
 You can contact me:
 
-<img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/insta.svg" width="24px" height="24px" /> pravesh.kunwar
-
-<img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/mail.svg" width="24px" height="24px"/> praveshk04@outlook.com
-
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24px" height="24px"/> praveshkunwar
+<p align="left">
+<a href="https://linkedin.com/in/praveshkunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveshkunwar" height="30" width="40" /></a>
+<a href="https://instagram.com/pravesh.kunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pravesh.kunwar" height="30" width="40" /></a>
 
 ## Have a nice day! 👋
