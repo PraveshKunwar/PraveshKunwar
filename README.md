@@ -1,6 +1,10 @@
 <h1 align="center">Hey, I am Pravesh Kunwar! Welcome :) 👋</h1>
 
-<h3 align="center">About Me <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/NP-Nepal-Flag-icon.png" width="24" height="24"/> </h3>
+<h3 align="center" style="display: flex; align-items: center; justify-content: center;">
+  About Me 
+  <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/NP-Nepal-Flag-icon.png" width="24" height="24" style="margin-left: 8px;" />
+</h3>
+
 
 Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, especially with Javascript, Typescript, and C++. 
 
