@@ -27,12 +27,19 @@ Here are some of my most notable projects:
 Here are some of my most used languages and frameworks, etc:
 
 → Typescript
+
 → Javascript (Node.js, React.js, Next.js)
+
 → C++
+
 → HTML & CSS
+
 → Python
+
 → MongoDB
+
 → Git
+
 → Heroku
 
 <p align="left">
