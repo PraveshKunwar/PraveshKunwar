@@ -1,6 +1,6 @@
-## Hey, I am Pravesh Kunwar! Welcome :) 👋
+<h1 align="center">Hey, I am Pravesh Kunwar! Welcome :) 👋</h1>
 
-## About Me 🕵️
+<h3 align="center">About Me 🕵️</h3>
 
 Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, especially with Javascript, Typescript, and C++. 
 
@@ -13,16 +13,16 @@ Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, espe
     <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
 </div>
 
-### Projects 🌐
+<h3 align="center">Projects 🌐</h3>
 
 Here are some of my most notable projects:
 
-- 🌐 Portfolio - My portfolio using Typescript and Next.JS. (WIP)
+- 📜 Portfolio - My portfolio using Typescript and Next.JS. (WIP)
 - 🎵 Playlistify - A personalized playlist generator for Spotify! (WIP)
 - 🤖 Ultimatum - One of my discord bots written in Typescript.
 - 〽️ findBlue - A networking platform for students and professors! (WIP) 
   
-### Languages and Tools
+<h3 align="center">Languages and Tools 💻</h3>
 Here are some of my most used languages and frameworks, etc:
 
 → Typescript
@@ -74,8 +74,7 @@ Here are some of my most used languages and frameworks, etc:
 
 
 
-## Contact Info
-
+<h3 align="center">Contact Info 📱</h3>
 You can contact me:
 
 <p align="left">
