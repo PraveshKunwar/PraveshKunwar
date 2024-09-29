@@ -2,7 +2,7 @@
 
 ## About Me 🕵️
 
-Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, especially with Javascript, Typescript, and Python. 
+Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, especially with Javascript, Typescript, and C++. 
 
 <div align="center">
 <details>
@@ -18,19 +18,22 @@ Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, espe
 
 Here are some of my most notable projects:
 
-- ✨ Ultimatum - One of my discord bots written in Typescript.
-- ✨ Portfolio - My portfolio using Typescript and Framer Motion (coming soon!)
+- 🌐 Portfolio - My portfolio using Typescript and Next.JS. (WIP)
+- 🎵 Playlistify - A personalized playlist generator for Spotify! (WIP)
+- 🤖 Ultimatum - One of my discord bots written in Typescript.
+- 〽️ findBlue - A networking platform for students and professors! (WIP) 
   
 ### Languages and Tools
 Here are some of my most used languages and frameworks, etc:
 
-- ⭐ Typescript
-- ⭐ Javascript (Node.js, React.js, Next.js)
-- ⭐ C++
-- ⭐ HTML (JSX, TSX)
-- ⭐ Python (Learning)
-- ⭐ MongoDB
-- ⭐ Git CLI, Heroku CLI.
+→ Typescript
+→ Javascript (Node.js, React.js, Next.js)
+→ C++
+→ HTML & CSS
+→ Python
+→ MongoDB
+→ Git
+→ Heroku
 
 <p align="left">
   <a>
@@ -72,5 +75,7 @@ You can contact me:
 <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/insta.svg" width="24px" height="24px" /> pravesh.kunwar
 
 <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/svgs/mail.svg" width="24px" height="24px"/> praveshk04@outlook.com
+
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24px" height="24px"/> praveshkunwar
 
 ## Have a nice day! 👋
