@@ -71,4 +71,4 @@ You can contact me:
 <a href="https://instagram.com/pravesh.kunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pravesh.kunwar" height="30" width="40" /></a>
 </div>
 
-## Have a nice day! 👋
+<h3 align="center">Have a nice day! 👋</h3>
