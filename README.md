@@ -7,8 +7,8 @@ Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, espe
 <h3 align="center">Github Statistics 📊</h3>
 
 <div align="center">
+       <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
   <details>
-     <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
      <summary>Click to see my GitHub statistics!</summary>
      <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/github-metrics.svg" />
 <br><br>
