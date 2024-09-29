@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I am Pravesh Kunwar! Welcome :) 👋</h1>
 
-<h3 align="center" style="display: flex; align-items: center; justify-content: center;">
+<h3 align="center">
   About Me 📝
   <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/NP-Nepal-Flag-icon.png" width="30" height="30" style="margin-top: 25px;" />
 </h3>
