@@ -2,7 +2,7 @@
 
 <h3 align="center" style="display: flex; align-items: center; justify-content: center;">
   About Me 
-  <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/NP-Nepal-Flag-icon.png" width="24" height="24" style="margin-left: 8px;" />
+  <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/NP-Nepal-Flag-icon.png" width="30" height="30" style="margin-left: 8px;" />
 </h3>
 
 
