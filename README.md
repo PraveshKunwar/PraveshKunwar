@@ -17,17 +17,17 @@ Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, espe
 </div>
 
 <h3 align="center">Projects 🌐</h3>
-
-Here are some of my most notable projects:
+<div align="center">Here are some of my most notable projects:
 
 - 📜 Portfolio - My portfolio using Typescript and Next.JS. (WIP)
 - 🎵 Playlistify - A personalized playlist generator for Spotify! (WIP)
 - 🤖 Ultimatum - One of my discord bots written in Typescript.
-- 〽️ findBlue - A networking platform for students and professors! (WIP) 
+- 〽️ findBlue - A networking platform for students and professors! (WIP)
+</div>
   
 <h3 align="center">Languages and Tools 💻</h3>
 <div align="center">
-Here are some of my most used languages and frameworks, etc:
+Here are some of my most used languages and frameworks, etc: <br></br>
 → Typescript
 
 → Javascript (Node.js, React.js, Next.js)
@@ -79,10 +79,11 @@ Here are some of my most used languages and frameworks, etc:
 
 
 <h3 align="center">Contact Info 📱</h3>
+<div align="center">
 You can contact me:
-
 <p align="left">
 <a href="https://linkedin.com/in/praveshkunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveshkunwar" height="30" width="40" /></a>
 <a href="https://instagram.com/pravesh.kunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pravesh.kunwar" height="30" width="40" /></a>
+</div>
 
 ## Have a nice day! 👋
