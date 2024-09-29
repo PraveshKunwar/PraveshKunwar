@@ -26,10 +26,8 @@ Here are some of my most notable projects:
 - 〽️ findBlue - A networking platform for students and professors! (WIP) 
   
 <h3 align="center">Languages and Tools 💻</h3>
+<div align="center">
 Here are some of my most used languages and frameworks, etc:
-
-<br></br>
-
 → Typescript
 
 → Javascript (Node.js, React.js, Next.js)
@@ -45,6 +43,7 @@ Here are some of my most used languages and frameworks, etc:
 → Git
 
 → Heroku
+</div>
 
 <p align="left">
   <a>
