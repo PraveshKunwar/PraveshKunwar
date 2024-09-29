@@ -19,33 +19,16 @@ Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, espe
 <h3 align="center">Projects 🌐</h3>
 <div align="center">Here are some of my most notable projects:
 
-- 📜 Portfolio - My portfolio using Typescript and Next.JS. (WIP)
-- 🎵 Playlistify - A personalized playlist generator for Spotify! (WIP)
-- 🤖 Ultimatum - One of my discord bots written in Typescript.
-- 〽️ findBlue - A networking platform for students and professors! (WIP)
+📜 Portfolio - My portfolio using Typescript and Next.JS. (WIP)
+🎵 Playlistify - A personalized playlist generator for Spotify! (WIP)
+🤖 Ultimatum - One of my discord bots written in Typescript.
+〽️ findBlue - A networking platform for students and professors! (WIP)
 </div>
   
 <h3 align="center">Languages and Tools 💻</h3>
 <div align="center">
 Here are some of my most used languages and frameworks, etc: <br></br>
-→ Typescript
-
-→ Javascript (Node.js, React.js, Next.js)
-
-→ C++
-
-→ HTML & CSS
-
-→ Python
-
-→ MongoDB
-
-→ Git
-
-→ Heroku
-</div>
-
-<p align="left">
+<p>
   <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -74,6 +57,7 @@ Here are some of my most used languages and frameworks, etc: <br></br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
 </p>
+</div>
 
 
 
