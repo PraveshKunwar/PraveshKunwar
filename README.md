@@ -28,6 +28,8 @@ Here are some of my most notable projects:
 <h3 align="center">Languages and Tools 💻</h3>
 Here are some of my most used languages and frameworks, etc:
 
+<br></br>
+
 → Typescript
 
 → Javascript (Node.js, React.js, Next.js)
