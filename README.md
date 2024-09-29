@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I am Pravesh Kunwar! Welcome :) 👋</h1>
 
 <h3 align="center" style="display: flex; align-items: center; justify-content: center;">
-  About Me 🇳🇵
+  About Me 📝
   <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/NP-Nepal-Flag-icon.png" width="30" height="30" style="margin-left: 8px;" />
 </h3>
 
 
-Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, especially with Javascript, Typescript, and C++. 
+Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, especially with Javascript, Typescript, and C++. I'm currently a student pursuing a B.S in Computer Science at the University of Michigan. I enjoy coding and collaborating on projects that can have a significant impact in any area!
 
 <h3 align="center">Github Statistics 📊</h3>
 
