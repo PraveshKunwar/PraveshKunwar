@@ -27,8 +27,9 @@ Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, espe
 📜 Portfolio - My portfolio using Typescript and React.js (WIP)  <br>
 🤖 Ultimatum - One of my discord bots written in Typescript. <br>
 🎵 playlistly - A personalized playlist generator for Spotify! <br>
-🚛 invently.ai - A smart inventory manager to manage stock in inventory with a built in AI assitant to make stock related suggstions. <br>
-〽️ findBlue - A networking platform for students and professors! (WIP) <br>
+🚛 invently.ai - A smart, AI based inventory manager to manage stock in inventory! <br>
+〽️ findBlue - A networking platform for students and professors! <br>
+🥇 Ineed.io - A competitive internship tracker (WIP)!
 </div>
   
 <h3 align="center">Languages and Tools 💻</h3>
