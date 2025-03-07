@@ -14,9 +14,6 @@ Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, espe
   <br></br>
 <img src="https://github-profile-trophy.vercel.app/?username=praveshkunwar" alt="praveshkunwar" /> 
   <br></br>
-<details>
-     <summary>Additional Stats</summary>
-     <img src="https://github.com/PraveshKunwar/PraveshKunwar/blob/master/github-metrics.svg" />
 </div>
 
 <h3 align="center">Languages and Tools 💻</h3>
