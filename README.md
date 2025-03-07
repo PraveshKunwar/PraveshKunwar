@@ -75,12 +75,6 @@ Here are some of my most used languages and frameworks, etc: <br></br>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
 
   <!-- Tools -->
   <a>
@@ -93,22 +87,13 @@ Here are some of my most used languages and frameworks, etc: <br></br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
   </a>
   <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="Heroku" width="40" height="40"/>
   </a>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
   </a>
 </p>
 
