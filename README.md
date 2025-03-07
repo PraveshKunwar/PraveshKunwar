@@ -12,8 +12,7 @@ Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, espe
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=PraveshKunwar" />
   <br></br>
-<img src="https://github-profile-trophy.vercel.app/?username=praveshkunwar" alt="praveshkunwar" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshKunwar&layout=compact&theme=tokyonight"/><br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=praveshkunwar" alt="praveshkunwar" /> 
 </div>
 
 <h3 align="center">Projects 🌐</h3>
