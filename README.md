@@ -5,7 +5,7 @@
 </h3>
 
 
-Hi, my name is Pravesh Kunwar. I am a software developer who loves to code, especially with Javascript, Typescript, and C++. I'm currently a student pursuing a B.S in Computer Science at the University of Michigan. I enjoy coding and collaborating on projects that can have a significant impact in any area!
+Hi, I'm Pravesh, a fullstack developer and current CS student at the University of Michigan!
 
 <h3 align="center">Github Statistics 📊</h3>
 
