@@ -1,8 +1,7 @@
-### Hi. I'm Pravesh.
+## Hi. I'm Pravesh.
+#### CS @ University of Michigan - Ann Arbor
 
-
-#### About Me:
--  CS @ University of Michigan - Ann Arbor
+### About Me:
 - Relevant Coursework: Object-Oriented Programming (C++), Discrete Math, Programming and Intro Data
  Structures, Data Structures and Algorithms, Intro to Computer Organization, Foundations of Computer Science, Web
  Systems, Software Engineering, Database Management Systems
