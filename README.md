@@ -2,7 +2,7 @@
 
 #### About Me:
 - 🎓 CS @ University of Michigan - Ann Arbor
-- 📌 Interests: Software Engineering, Fullstack Development, AI, Exploring Embedded Systems
+- 📌 Interests: Software Engineering, Fullstack Development, AI
 - 📜 Relevant Coursework: Object-Oriented Programming (C++), Discrete Math, Programming and Intro Data
  Structures, Data Structures and Algorithms, Intro to Computer Organization, Foundations of Computer Science, Web
  Systems, Software Engineering, Database Management Systems
